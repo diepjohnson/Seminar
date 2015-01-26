@@ -8,7 +8,7 @@
     
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SEND_SMS" />
-	<!-- wake dev client 31-->
+	<!-- wake dev client 3-->
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 	
